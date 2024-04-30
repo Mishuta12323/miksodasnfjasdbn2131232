@@ -1,5 +1,13 @@
 .custom-heading {
     color: aqua;
-    margin-left: 1500px;
+    margin-left: 1000px;
     margin-top: 250px;
+}
+.misko{
+    color: tomato;
+    width: 100;
+}
+.maksimko{
+    color: blueviolet;
+    size: 150px;
 }
